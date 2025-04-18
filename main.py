@@ -43,11 +43,11 @@ beat_changed = True
 db_data = "record.db"
 
 # ################## loading sounds
-hit_hat_ = mixer.Sound('sounds\hit hat.wav')
-snare_ = mixer.Sound('sounds\snare.wav')
-kick_ = mixer.Sound('sounds\kick.wav')
-crash_ = mixer.Sound('sounds\crash.wav')
-clap_ = mixer.Sound('sounds\clap.wav')
+hit_hat_ = mixer.Sound('sounds\\hit hat.wav')
+snare_ = mixer.Sound('sounds\\snare.wav')
+kick_ = mixer.Sound('sounds\\kick.wav')
+crash_ = mixer.Sound('sounds\\crash.wav')
+clap_ = mixer.Sound('sounds\\clap.wav')
 tom_ = mixer.Sound('sounds\\tom.wav')
 
 
